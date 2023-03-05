@@ -1,5 +1,5 @@
 /**
- * Homebridge-MQTTThing JSON Codec (encoder/decoder)
+ * homebridge-mqttthing-dreammaker JSON Codec (encoder/decoder)
  * codecs/json.js
  * 
  * Add configuration giving JSON 'path' for each property used by the accessory. For example:
